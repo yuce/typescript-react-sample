@@ -1,0 +1,1 @@
+tsc && browserify built/test.js -o built/bundle.js
